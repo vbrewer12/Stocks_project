@@ -1,0 +1,101 @@
+Ticker,Major_Industry,Industry
+PPA,Aerospace,Aerospace & Defense
+ACHR,Aerospace,Aerospace & Defense
+JOBY,Aerospace,Aerospace & Defense
+TXT,Aerospace,Aerospace & Defense
+JETS,Aerospace,Aerospace & Defense
+AAL,Aerospace,Airline
+DAL,Aerospace,Airline
+BA,Aerospace,Airline
+LUV,Aerospace,Airline
+UAL,Aerospace,Airline
+JTAI,Aerospace,Airline
+SIG,Aerospace,Airline
+ZC=F,Agriculture,Corn
+DOLE,Agriculture,Crop Production
+FDP,Agriculture,Crop Production
+XBI,Biotech,Biotech
+AMGN,Biotech,Biotech
+GILD,Biotech,Biotech
+REGN,Biotech,Biotech
+FBGRX,Blue Chip (Broad Market),
+HMC,Consumer Discrestionary ,Automotive
+GM,Consumer Discrestionary ,Automotive
+TM,Consumer Discrestionary ,Automotive
+AZO,Consumer Discrestionary ,Automotive
+ORLY,Consumer Discrestionary ,Automotive
+MAR,Consumer Discrestionary ,Hospitality
+HLT,Consumer Discrestionary ,Hospitality
+IHG,Consumer Discrestionary ,Hospitality
+TJX,Consumer Discrestionary ,Retail
+AMZN,Consumer Discrestionary ,Retail
+NKE,Consumer Discrestionary ,Retail
+XLY,Consumer Discrestionary ,Consumer Discrestionary 
+BTC-USD,Cryptocurrency,Bitcoin
+^TYX,Debt Market,30 yr US Bond
+VTC,Debt Market,Corporate Bonds
+JNK,Debt Market,High Yield Corporate Bonds
+LQD,Debt Market,Investment Grade Corporate Bonds
+^FVX,Debt Market,Long Dated US Bond 
+^IRX,Debt Market,Short Dated US Bond
+XOP,Energy,Energy
+URA,Energy,Energy
+CL=F,Energy,Crude Oil
+XLF,Financial,Financial
+JPM,Financial,Financial
+FSPCX,Financial,Insurance
+GC=F,Gold,Gold
+CVS,Healthcare,Healthcare Services
+UNH,Healthcare,Managed Healthcare
+ABT,Healthcare,Medical Devices
+TMO,Healthcare,Medical Devices
+MDT,Healthcare,Medical Devices
+BSX,Healthcare,Medical Devices
+JNJ,Healthcare,Pharmaceuticals
+PFE,Healthcare,Pharmaceuticals
+MRK,Healthcare,Pharmaceuticals
+LLY,Healthcare,Pharmaceuticals
+CAT,Industrials,Construction
+ITB,Industrials,Construction
+FCYIX,Industrials,Industrials
+FSCHX,Materials,Chemicals
+HG=F,Materials,Copper
+LBR=F,Materials,Lumber
+XLB,Materials,Materials
+XME,Materials,Metals & Mining
+SI=F,Materials,Silver
+VMGRX,Mid Cap (Broad Market),Mid Cap
+PLD,Real Estate,REIT
+AMT,Real Estate,REIT
+EQIX,Real Estate,REIT
+SPG,Real Estate,REIT
+PSA,Real Estate,REIT
+CCI,Real Estate,REIT
+DLR,Real Estate,REIT
+O,Real Estate,REIT
+VICI,Real Estate,REIT
+AVB,Real Estate,REIT
+SPY,S&P 500,S&P 500
+VSMAX,Small Cap (Broad Market),Small Cap
+CSCO,Technology,Communications
+NVDA,Technology,Semiconductors
+AVGO,Technology,Semiconductors
+INTC,Technology,Semiconductors
+QCOM,Technology,Semiconductors
+MSFT,Technology,Software
+ORCL,Technology,Software
+ADBE,Technology,Software
+CRM,Technology,Software
+FSPTX,Technology,Technology
+AAPL,Technology,Technology
+AEP,Utilites,Utilites
+CNP,Utilities,Utilities
+NEE,Utilities,Utilities
+SO,Utilities,Utilities
+CEG,Utilities,Utilities
+GEV,Utilities,Utilities
+BEPC,Utilities,Utilities
+XEL,Utilities,Utilities
+EXC,Utilities,Utilities
+XLE,Utilities,Utilities
+^VIX,Volatility Index,Volatility Index
