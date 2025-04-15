@@ -1,0 +1,101 @@
+Company_Name,Ticker,Industry,Major_Industry,Breif_Description
+Aerospace & Defense Index,PPA,Aerospace & Defense,Aerospace,Aerospace & Defense ETF
+Archer Aviation,ACHR,Aerospace & Defense,Aerospace,eVTOL: electric vertial take off and landing aircraft
+Joby Aviation,JOBY,Aerospace & Defense,Aerospace,eVTOL: electric vertial take off and landing aircraft
+Textron,TXT,Aerospace & Defense,Aerospace,manufacturer of aircraft/maintenance etc
+Global Airline Index,JETS,Airline,Aerospace,Global airline industry etf
+American Airline,AAL,Airline,Aerospace,commercial air
+Delta,DAL,Airline,Aerospace,commercial air
+Boeing,BA,Airline,Aerospace,manufacturer of aircraft/maintenance etc
+Southwest,LUV,Airline,Aerospace,commercial air
+United,UAL,Airline,Aerospace,commercial air
+JET.AI,JTAI,Airline,Aerospace,development and ops of private aviation
+Signature Aviation,SIG,Airline,Aerospace,
+Corn,ZC=F,Corn,Agriculture,Aproximate price of 5000 Bushels of Corn
+Dole,DOLE,Crop Production,Agriculture,Dole Stock
+Del Monte,FDP,Crop Production,Agriculture,Del Monte Stock
+Biotech Index,XBI,Biotech,Biotech,Biotech ETF
+Amgen Inc.,AMGN,Biotech,Biotech,"Discovers, develops, manufactures, and delivers human therapeutics in the areas of oncology, cardiovascular, and neuroscience."
+"Gilead Sciences, Inc.",GILD,Biotech,Biotech,"Discovers, develops, and commercializes therapeutics in areas such as HIV/AIDS, liver diseases, and oncology."
+Regeneron Pharmaceuticals,REGN,Biotech,Biotech,"Discovers, develops, and commercializes medicines for the treatment of serious diseases."
+Blue Chip Inex,FBGRX,Blue Chip,Blue Chip (Broad Market),Broad Market Blue Chip Cap fund
+Honda Motor,HMC,Automotive,Consumer Discrestionary,
+General Motors,GM,Automotive,Consumer Discrestionary,
+Toyoya Motor,TM,Automotive,Consumer Discrestionary,
+AutoZone,AZO,Automotive,Consumer Discrestionary,
+Oreilly,ORLY,Automotive,Consumer Discrestionary,
+Marriot,MAR,Hospitality,Consumer Discrestionary,
+Hilton worldwide,HLT,Hospitality,Consumer Discrestionary,
+InterContinental,IHG,Hospitality,Consumer Discrestionary,
+TJX Comp,TJX,Retail,Consumer Discrestionary,
+Amazon,AMZN,Retail,Consumer Discrestionary,Retail provider
+Nike,NKE,Retail,Consumer Discrestionary,Retail provider
+Consumer Dicrestionary Index,XLY,,Consumer Discrestionary,
+Bitcoin,BTC-USD,Bitcoin,Cryptocurrency,Price of 1 Bitcoin
+30 yr US Bond,^TYX,30 yr US Bond,Debt Market,30 Year US gov't Treasury Note
+Inv. Grade & Junk Bond Index,VTC,Corporate Bonds,Debt Market,"Fund, Mixture of High and Low Grade Bonds"
+Junk Bond Index,JNK,High Yield Corporate Bonds,Debt Market,"Fund of High-Yield ""Junk"" Bonds"
+Inv. Grade Bond Index,LQD,Investment Grade Corporate Bonds,Debt Market,Fund of Investment Grade Bonds
+5 Year Treasury Bonds,^FVX,Long Dated US Bond,Debt Market,5 Year US gov't Treasury Bonds
+Short datedTreasury Bills,^IRX,Short Dated US Bond,Debt Market,Short dated US gov't Treasury bills
+Energy Index,XOP,Energy,Energy,Energy ETF
+Global Uranium Index,URA,Energy,Energy,Global Uranium ETF
+Crude Oil,CL=F,Oil & Gas,Energy,Aproximate price of a single barrel of Crude
+Financial Sector Index,XLF,Financial,Financial,Financial Sector ETF
+JP Morgan,JPM,Financial,Financial,JP Morgan
+Insurance Company Index,FSPCX,Insurance,Financial,Insurance company Mutual fund
+Gold,GC=F,Gold,Gold,Aproximate price of a single troy oz of Gold
+CVS Health Corporation,CVS,Healthcare Services,Healthcare,"Provides health services and plans, including pharmacy benefit management and retail pharmacy services."
+UnitedHealth Group,UNH,Managed Healthcare,Healthcare,"Provides health care coverage, software, and data consultancy services."
+Abbott Laboratories,ABT,Medical Devices,Healthcare,"Provides health solutions through prescription medicines, vaccines, biologic therapies, and animal health products."
+Thermo Fisher Scientific,TMO,Medical Devices,Healthcare,"Provides analytical instruments, equipment, reagents, and consumables to the life sciences and other laboratories."
+Medtronic plc,MDT,Medical Devices,Healthcare,"Develops, manufactures, and sells device-based medical therapies to hospitals, physicians, and patients."
+Boston Scientific Corporation,BSX,Medical Devices,Healthcare,"Develops, manufactures, and markets medical devices for use in various interventional medical specialties."
+Johnson & Johnson,JNJ,Pharmaceuticals,Healthcare,"Engages in the research, development, manufacture, and sale of a broad range of health care products."
+Pfizer Inc.,PFE,Pharmaceuticals,Healthcare,"Discovers, develops, manufactures, and sells healthcare products, including medicines and vaccines."
+"Merck & Co., Inc.",MRK,Pharmaceuticals,Healthcare,"Provides health solutions through prescription medicines, vaccines, biologic therapies, and animal health products."
+Eli Lilly and Company,LLY,Pharmaceuticals,Healthcare,"Discovers, develops, manufactures, and markets human pharmaceutical products in various therapeutic areas."
+Caterpillar,CAT,Construction,Industrials,Caterpillar Stock
+Construction Sector Index,ITB,Construction,Industrials,Construction ETF
+Industrials Sector Index,FCYIX,Industrials,Industrials,Industrials Mutual Fund
+Chemicals Sector Index,FSCHX,Chemicals,Materials,Chemical ETF
+Copper,HG=F,Copper,Materials,Aproximate price of a 1 lb of Copper
+Lumber,LBR=F,Lumber,Materials,Aproximate price of a 1000 Board Ft
+Materials Sector Index,XLB,Materials,Materials,Materials ETF
+Metals & Mining Index,XME,Metals & Mining,Materials,Metals & Mining ETF
+Silver,SI=F,Silver,Materials,Price per 1 troy ounce of silver
+Mid Cap Index,VMGRX,Mid Cap,Mid Cap (Broad Market),Broad Market Mid Cap fund
+"Prologis, Inc.",PLD,REIT,Real Estate,"Engages in logistics real estate with a focus on high-barrier, high-growth markets."
+American Tower Corporation,AMT,REIT,Real Estate,Owns and operates wireless and broadcast communications infrastructure globally.
+"Equinix, Inc.",EQIX,REIT,Real Estate,Provides data center and colocation services for enterprises and service providers.
+"Simon Property Group, Inc.",SPG,REIT,Real Estate,"Engages in the ownership of premier shopping, dining, entertainment, and mixed-use destinations."
+Public Storage,PSA,REIT,Real Estate,Operates self-storage facilities offering storage spaces for personal and business use.
+Crown Castle Inc.,CCI,REIT,Real Estate,"Provides access to wireless infrastructure via towers, small cells, and fiber solutions."
+"Digital Realty Trust, Inc.",DLR,REIT,Real Estate,"Owns, acquires, develops, and manages technology-related real estate, including data centers."
+Realty Income Corporation,O,REIT,Real Estate,"Invests in free-standing, single-tenant commercial properties, generating rental revenue."
+VICI Properties Inc.,VICI,REIT,Real Estate,"Owns gaming, hospitality, and entertainment destinations, including Caesars Palace."
+"AvalonBay Communities, Inc.",AVB,REIT,Real Estate,"Develops, redevelops, acquires, and manages multifamily communities in urban and suburban markets."
+S&P 500,SPY,S&P 500,S&P 500,S&P 500
+Small Cap Index,VSMAX,Small Cap,Small Cap (Broad Market),Broad Market Small Cap fund
+"Cisco Systems, Inc.",CSCO,Communications,Technology,"Designs and sells a broad range of technologies across networking, security, collaboration, applications, and the cloud."
+NVIDIA Corporation,NVDA,Semiconductors,Technology,"Designs and manufactures graphics processing units (GPUs) for gaming and professional markets, and system-on-a-chip units (SoCs) for mobile computing."
+Broadcom Inc.,AVGO,Semiconductors,Technology,"Designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions."
+Intel Corporation,INTC,Semiconductors,Technology,Designs and manufactures microprocessors and related technologies for computing and communications industries.
+Qualcomm Incorporated,QCOM,Semiconductors,Technology,"Designs and markets wireless telecommunications products and services, including chipsets and software."
+Microsoft Corporation,MSFT,Software,Technology,"Develops, licenses, and supports software products, including the Windows operating system and Office suite."
+Oracle Corporation,ORCL,Software,Technology,"Provides database software, cloud engineered systems, and enterprise software products."
+Adobe Inc.,ADBE,Software,Technology,"Offers products and services for content creation, marketing, and document management, including Photoshop and Acrobat."
+"Salesforce, Inc.",CRM,Software,Technology,Provides cloud-based customer relationship management (CRM) services and a suite of enterprise applications.
+Technology Sector Index,FSPTX,Technology,Technology,Technology ETF
+Apple Inc.,AAPL,Technology,Technology,"Designs and manufactures consumer electronics, including iPhones, iPads, and Mac computers."
+American Electric,AEP,Utilites,Utilites,
+Centerpoint Energy,CNP,Utilities,Utilities,Electric/natural gas co
+NextEra Energy,NEE,Utilities,Utilities,largerst producers of wind and solar
+The Southern Co,SO,Utilities,Utilities,Gas electric
+Constellation Energy,CEG,Utilities,Utilities,largerst producers of carbon-free energy
+GE Vernova Inc,GEV,Utilities,Utilities,Sustinable decarbonized energy systems
+Brookfield Renew,BEPC,Utilities,Utilities,Independent Power and Renewable Energy
+Xcel Energy,XEL,Utilities,Utilities,regulated electric utility and natural gas based in MN
+Exelon corp,EXC,Utilities,Utilities,Electricity and Natural Gas
+The Energy Select,XLE,Utilities,Utilities,"companies that provide crude oil, natural gas etc"
+Volatility Index,^VIX,Volatility Index,Volatility Index,Implied Volatility of S&P 500

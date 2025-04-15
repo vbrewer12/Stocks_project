@@ -3,7 +3,7 @@ import sqlite3
 import os
 from functools import wraps
 import json
-
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -31,7 +31,19 @@ def query_db(query, args=(), one=False):
 @app.route("/")
 def index():
     """Render the main dashboard page"""
+
     return render_template("index.html")
+
+
+@app.route("/info.html")
+def info():
+    # the info page
+    stock_info = pd.read_csv("data/stock_info.csv")
+    stock_html = stock_info.to_html()
+    print(stock_info)
+
+    return render_template("info.html", table = stock_html)
+
 
 @app.route("/api/stockprices")
 def get_stock_prices():
