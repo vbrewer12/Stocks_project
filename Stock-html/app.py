@@ -4,6 +4,10 @@ import os
 from functools import wraps
 import json
 import pandas as pd
+import numpy as np
+import plotly.express as px
+
+# make sure to pip install plotly.express-- "pip install plotly-express"
 
 app = Flask(__name__)
 
@@ -31,8 +35,14 @@ def query_db(query, args=(), one=False):
 @app.route("/")
 def index():
     """Render the main dashboard page"""
+    df = px.data.iris()
+    # Create a scatter plot
+    fig = px.scatter(df, x='sepal_width', y='sepal_length', color='species',
+                    title='Sepal Width vs Length by Species')
+    # Export to HTML file
+    graph_html = fig.to_html(full_html=False, include_plotlyjs='cdn')
 
-    return render_template("index.html")
+    return render_template("index.html",graph=graph_html)
 
 
 @app.route("/info.html")
