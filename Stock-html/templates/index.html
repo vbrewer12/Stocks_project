@@ -3,13 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
     <title>Stocks</title>
-    <h2> Stocks Analysis</h2>
+
    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.0.1/plotly.min.js" ></script>
+
 </head>
 
 
 <body>
+  
+    <h1 id="heading"><em>Stock Analysis</em></h1>
+  <button onclick="addColor()">Add Color</button>
+
+  <script>
+    function addColor() {
+      // Change background color of the whole page
+      document.body.style.backgroundColor = "#add8e6"; // Light blue
+
+      // Change text color of heading
+      document.getElementById("heading").style.color = "#800080"; // Purple
+    }
+  </script>
+
     <a href = "info.html">
         <button>Stock Info!</button>
     </a>
@@ -23,7 +39,7 @@
 
     <script src = "/static/stocks.js"></script>
     <script src="https://d3js.org/d3.v7.min.js"></script>
-      
+    
     
     
     
