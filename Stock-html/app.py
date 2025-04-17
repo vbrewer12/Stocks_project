@@ -45,7 +45,7 @@ def index():
 
 
     selected_tickers = ['BA', 'LUV', 'CL=F', 'XOP', 'XME', 'HMC', 'GM', 'PFE','GC=F','XLF',
-    'SPY']
+    'SPY','^FVX','FSPTX']
 
 
     df_selected = df3[['Date'] + selected_tickers]
@@ -53,7 +53,7 @@ def index():
     df_long = df_selected.melt(id_vars='Date', var_name='Ticker', value_name='Percent Change')
 
 
-    fig = px.line(df_long, x='Date', y='Percent Change', color='Ticker', title='Percent Change for Selected Tickers' , height=900)
+    fig = px.line(df_long, x='Date', y='Percent Change', color='Ticker', title='Percent Change for Selected Tickers, 90 Day Rolling Mean' , height=900)
 
     fig.update_xaxes(title='Date')
     fig.update_yaxes(title='Percent Change')
