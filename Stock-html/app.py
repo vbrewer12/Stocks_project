@@ -36,8 +36,11 @@ def query_db(query, args=(), one=False):
 def index():
     """Render the main dashboard page"""
     df3 = pd.read_csv("data/percent_change.csv")
-    print(df3)
 
+    df_numeric = df3.select_dtypes(include='number')
+    df_rolled = df_numeric.rolling(90).mean()
+
+    df3 = pd.concat([df3["Date"], df_rolled], axis=1)
     df3['Date'] = pd.to_datetime(df3['Date'])
 
 
