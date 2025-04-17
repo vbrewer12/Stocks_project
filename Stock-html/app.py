@@ -35,10 +35,25 @@ def query_db(query, args=(), one=False):
 @app.route("/")
 def index():
     """Render the main dashboard page"""
-    df = px.data.iris()
-    # Create a scatter plot
-    fig = px.scatter(df, x='sepal_width', y='sepal_length', color='species',
-                    title='Sepal Width vs Length by Species')
+    df3 = pd.read_csv("data/percent_change.csv")
+    print(df3)
+
+    df3['Date'] = pd.to_datetime(df3['Date'])
+
+
+    selected_tickers = ['BA', 'LUV', 'CL=F', 'XOP', 'XME', 'HMC', 'GM', 'PFE','GC=F','XLF',
+    'SPY']
+
+
+    df_selected = df3[['Date'] + selected_tickers]
+
+    df_long = df_selected.melt(id_vars='Date', var_name='Ticker', value_name='Percent Change')
+
+
+    fig = px.line(df_long, x='Date', y='Percent Change', color='Ticker', title='Percent Change for Selected Tickers' , height=900)
+
+    fig.update_xaxes(title='Date')
+    fig.update_yaxes(title='Percent Change')
     # Export to HTML file
     graph_html = fig.to_html(full_html=False, include_plotlyjs='cdn')
 
