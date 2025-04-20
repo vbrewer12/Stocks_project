@@ -17,11 +17,17 @@ Buttons to change the colors of the website
 Requires Python version 3
 
 Modules required to pip install:
+
 flask
+
 sqlite3
+
 pandas
+
 numpy
+
 plotly
+
 plotly.express
 
 ## Usage:
