@@ -5,7 +5,7 @@ The purpose of this project is to demonstrate the use of the yFinance module in 
 and the use of Flask in python to create a simple web page.
 
 ## Features:
-The website has several features
+The website has several features:
 
 An interactive graph of securities to be selected, that can be zoomed, panned
 
