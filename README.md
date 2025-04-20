@@ -39,7 +39,7 @@ Open app.py and run (see notes*)
 
 Open terminal and follow the link
 
-If the website does not populate, run app.py with anaconda-shell
+If the website does not populate, run app.py with anaconda-shell (open terminal follow link)
 
 Click the securities on the graph to turn them on and off 
 
